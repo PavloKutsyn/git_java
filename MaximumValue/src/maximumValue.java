@@ -3,7 +3,7 @@ public class maximumValue {
         int x = 10;
         int y = 3;
         int max = findMax(x, y);
-        System.out.println("The maximum value is: " + max);
+        System.out.println("The maximum value is " + max);
         }
         public static int findMax(int first, int second) {
         if (first > second) {
